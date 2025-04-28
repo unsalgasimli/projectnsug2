@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312327164543",
+    "project_id": "projectnsug-9425c",
+    "storage_bucket": "projectnsug-9425c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312327164543:android:54ff5c5a6e00af8a22e54a",
+        "android_client_info": {
+          "package_name": "com.unsalgasimliapplicationsnsug.projectnsug",
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF0MWaHaTf2EbRNTA_SoxsWM5wheQ1T70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

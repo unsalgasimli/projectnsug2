@@ -1,0 +1,6 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <style name="Theme.Projectnsug" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- your colors, typeface, shape overrides, etc. -->
+    </style>
+</resources>

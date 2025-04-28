@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_create"
+        android:title="Create Nudge"/>
+    <item
+        android:id="@+id/action_send"
+        android:title="Send Nudge"/>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">projectnsug</string>
+    <string name="add_nudge">Add Nudge</string>
+    <string name="nudge_title">Title</string>
+    <string name="nudge_message">Message</string>
+    <string name="save_nudge">Save</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="tap_to_edit_note">Tap to edit note</string>
+    <string name="media">Media</string>
+    <string name="notes">Notes</string>
+    <string name="nudge">Nudge</string>
+    <string name="partners">Partners</string>
+    <string name="logout">Logout</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile_picture">pfp</string>
+    <string name="add_or_send_nudge">ERE</string>
+</resources>
