@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.bumptech.glide.GlideImageView
+        android:id="@+id/ivProfile"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/pngegg"
+        android:contentDescription="Profile photo" />
+
+    <TextView
+        android:id="@+id/tvProfileNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tap to edit note"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginTop="12dp"/>
+</LinearLayout>

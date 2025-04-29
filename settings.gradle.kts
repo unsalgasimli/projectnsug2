@@ -5,9 +5,10 @@ pluginManagement {
         gradlePluginPortal()
     }
     plugins {
-        // Versions declared **only** here:
-        id("com.android.application") version "8.8.1"
+        // versions declared here only
+        id("com.android.application")      version "8.8.1"
         id("com.google.gms.google-services") version "4.3.15"
+        id("androidx.navigation.safeargs") version "2.7.0"
     }
 }
 

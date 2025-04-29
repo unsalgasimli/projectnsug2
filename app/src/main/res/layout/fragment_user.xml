@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivUserPfp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_user"
+            android:contentDescription="Profile picture" />
+
+        <TextView
+            android:id="@+id/tvNickname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nickname"
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"/>
+
+        <!-- Partner list, change password, logout button… -->
+    </LinearLayout>
+</ScrollView>
